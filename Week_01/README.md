@@ -61,3 +61,40 @@
         职业训练: 知识点拆分、刻意练习、反馈
         五步刷题法 五毒神掌
         做算法题最大误区： 只做一遍
+
+13期-刷题狂魔组 算法题
+
+    【day1】  爬楼梯
+     https://leetcode.com/problems/climbing-stairs/
+     五毒神掌 
+       递归 第2遍
+
+    【day2】  加一
+     https://leetcode-cn.com/problems/plus-one/ 
+     五毒神掌 
+       YHHZW同学的解法 第2遍 
+
+    【day3】  两数之和
+     https://leetcode-cn.com/problems/two-sum/
+     五毒神掌 
+       暴力法 第2遍 
+
+    【day4】  两两交换链表中的节点
+     https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 
+    五毒神掌 
+      递归 第2遍
+
+    【day5】  合并两个有序链表
+     https://leetcode-cn.com/problems/merge-two-sorted-lists/
+     五毒神掌 
+       递归解法 第2遍
+
+    【day6】  猜数字游戏
+     https://leetcode-cn.com/problems/bulls-and-cows/
+     五毒神掌 
+       第1遍
+
+    【day7】  设计循环双端队列
+     https://leetcode-cn.com/problems/design-circular-deque/
+     五毒神掌
+       第1遍
