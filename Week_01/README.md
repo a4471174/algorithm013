@@ -1,8 +1,7 @@
 学习心得
 
-​      13期-刷题狂魔组 算法题 完成了一遍, 但是本周没有跟上预习课的节奏.
-
-​      希望后面自己可以跟上节奏.
+    13期-刷题狂魔组 算法题 完成了一遍, 但是本周课程课后练习还没开始.
+    希望后面自己可以跟上节奏.
 
 
 
@@ -75,37 +74,11 @@
 
 # 13期-刷题狂魔组 算法题
 
-    【day1】  爬楼梯
-     https://leetcode.com/problems/climbing-stairs/
-     五毒神掌 
-       递归 第2遍
-    
-    【day2】  加一
-     https://leetcode-cn.com/problems/plus-one/ 
-     五毒神掌 
-       YHHZW同学的解法 第2遍 
-    
-    【day3】  两数之和
-     https://leetcode-cn.com/problems/two-sum/
-     五毒神掌 
-       暴力法 第2遍 
-    
-    【day4】  两两交换链表中的节点
-     https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 
-    五毒神掌 
-      递归 第2遍
-    
-    【day5】  合并两个有序链表
-     https://leetcode-cn.com/problems/merge-two-sorted-lists/
-     五毒神掌 
-       递归解法 第2遍
-    
-    【day6】  猜数字游戏
-     https://leetcode-cn.com/problems/bulls-and-cows/
-     五毒神掌 
-       第1遍
-    
-    【day7】  设计循环双端队列
-     https://leetcode-cn.com/problems/design-circular-deque/
-     五毒神掌
-       第1遍
+    【day1】  爬楼梯 https://github.com/a4471174/algorithm013/blob/master/Week_01/ClimbStairs.java
+    【day2】  加一   https://github.com/a4471174/algorithm013/blob/master/Week_01/PlusOne.java
+    【day3】  两数之和 https://github.com/a4471174/algorithm013/blob/master/Week_01/TwoSum.java
+    【day4】  两两交换链表中的节点 https://github.com/a4471174/algorithm013/blob/master/Week_01/SwapPairs.java
+    【day5】  合并两个有序链表 https://github.com/a4471174/algorithm013/blob/master/Week_01/MergeTwoLists.java
+    【day6】  猜数字游戏 https://github.com/a4471174/algorithm013/blob/master/Week_01/GetHint.java   
+    【day7】  设计循环双端队列 https://github.com/a4471174/algorithm013/blob/master/Week_01/MyCircularDeque.java
+
