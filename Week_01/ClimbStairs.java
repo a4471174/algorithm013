@@ -7,7 +7,7 @@
            ... ...     
            第n级台阶   第n-1级台阶 + 第n-2级台阶 种方法
 */
-class Solution {
+class ClimbStairs {
     public int climbStairs(int n) {
         if (n==1) {
             return 1;

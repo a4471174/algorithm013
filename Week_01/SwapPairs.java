@@ -12,7 +12,7 @@
      时间复杂度: O(n)
      空间复杂度: O(1)
 */
-class Solution {
+class SwapPairs {
     public ListNode swapPairs(ListNode head) {
         if (head == null || head.next ==null) {
             return head;

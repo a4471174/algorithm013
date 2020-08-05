@@ -4,7 +4,7 @@
      时间复杂度: O(n)
      空间复杂度: O(1)
 */	 
-class Solution {
+class PlusOne {
 
 	public int[] plusOne2(int[] digits) {
         for (int i = digits.length - 1; i >= 0; i--) {

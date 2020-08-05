@@ -5,7 +5,6 @@
 
 
 
-
 # 学习笔记
 
 # 预习 第1课 | 数据结构与算法总览
@@ -72,9 +71,73 @@
         做算法题最大误区： 只做一遍
 
 
+# 预习 第2课 | 训练准备和复杂度分析
+
+##   1. 训练环境设置、编码技巧和Code Style
+
+    电脑设置
+    • Google
+    • Mac: iTerm2 + zsh (oh my zsh)
+      Windows: Microsoft new terminal:(https://github.com/microsoft/terminal)
+    • VSCode; Java: IntelliJ; Python: Pycharm
+    • LeetCode plugin (VSCode & IntelliJ)
+    • https://vscodethemes.com/
+
+    Code Style
+    Java、Python、…
+    • Google code style
+    • Facebook
+    • Airbnb
+
+    LeetCode
+    • leetcode-cn.com 和 题解
+    • leetcode.com 和 Discuss board
+    
+    指法和小操作
+    • home, end（行头、行尾）
+    • Word 单词、选单词、选整行
+    • IDE 的自动补全
+    • Top tips for <IDE-name>
+    
+    自顶向下的编程方式
+    • https://markhneedham.com/blog/2008/09/15/clean-code-
+    book-review/
+    • https://leetcode-cn.com/problems/valid-palindrome/
+  
+               
+##   2. 时间复杂度和空间复杂度分析
+    Big O notation
+    O(1): Constant Complexity 常数复杂度
+    O(log n): Logarithmic Complexity 对数复杂度
+    O(n): Linear Complexity 线性时间复杂度
+    O(n^2): N square Complexity 平方
+    O(n^3): N cubic Complexity 立方
+    O(2^n): Exponential Growth 指数
+    O(n!): Factorial 阶乘
+        注意：只看最高复杂度的运算
+
+
+# 第1周 第3课 | 数组、链表、跳表
+
+##   1. 数组、链表、跳表的基本实现和特性
+
+##   2. 实战题目解析：移动零
+
+##   3. 实战题目解析：盛水最多的容器、爬楼梯
+
+##   4. 实战题目解析：3数之和、环形链表
+
+
+# 第1周 第4课 | 栈、队列、优先队列、双端队列
+
+##   1. 栈和队列的实现与特性
+
+##   2. 实战题目解析：有效的括号、最小栈等问题
+
+
 
 # 13期-刷题狂魔组 算法题
-
+    Week01
     【day1】  爬楼梯 https://github.com/a4471174/algorithm013/blob/master/Week_01/ClimbStairs.java
     【day2】  加一   https://github.com/a4471174/algorithm013/blob/master/Week_01/PlusOne.java
     【day3】  两数之和 https://github.com/a4471174/algorithm013/blob/master/Week_01/TwoSum.java

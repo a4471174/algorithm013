@@ -1,4 +1,4 @@
-class Solution {
+class GetHint {
     public String getHint(String secret, String guess) {
         StringBuilder sb = new StringBuilder();
 		int a = 0, b = 0;
