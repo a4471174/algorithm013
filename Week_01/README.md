@@ -297,18 +297,6 @@
             
 ##   2. 实战题目解析：有效的括号、最小栈等问题
 
-  
-# 13期-刷题狂魔组 算法题
-    Week01
-    【day1】  爬楼梯 https://github.com/a4471174/algorithm013/blob/master/Week_01/ClimbStairs.java
-    【day2】  加一   https://github.com/a4471174/algorithm013/blob/master/Week_01/PlusOne.java
-    【day3】  两数之和 https://github.com/a4471174/algorithm013/blob/master/Week_01/TwoSum.java
-    【day4】  两两交换链表中的节点 https://github.com/a4471174/algorithm013/blob/master/Week_01/SwapPairs.java
-    【day5】  合并两个有序链表 https://github.com/a4471174/algorithm013/blob/master/Week_01/MergeTwoLists.java
-    【day6】  猜数字游戏 https://github.com/a4471174/algorithm013/blob/master/Week_01/GetHint.java   
-    【day7】  设计循环双端队列 https://github.com/a4471174/algorithm013/blob/master/Week_01/MyCircularDeque.java
-
-
 ##   实战题目 - Array
     1. https://leetcode-cn.com/problems/container-with-most-water/              @TODO
     2. https://leetcode-cn.com/problems/move-zeroes/                            @TODO
@@ -327,11 +315,23 @@
     4. https://leetcode-cn.com/problems/merge-sorted-array/                     @TODO
     5. https://leetcode-cn.com/problems/two-sum/                                @UNDERWAY  1 time
     6. https://leetcode-cn.com/problems/move-zeroes/                            @TODO
-    7. https://leetcode-cn.com/problems/plus-one/                               @UNDERWAY  1 time
-    
+    7. https://leetcode-cn.com/problems/plus-one/                               @UNDERWAY  1 time   
 ##   实战题目
     1. https://leetcode-cn.com/problems/largest-rectangle-in-histogram          @TODO
     2. https://leetcode-cn.com/problems/sliding-window-maximum                  @TODO
 ##   homework    
     1. https://leetcode.com/problems/design-circular-deque                      @UNDERWAY  1 time
     2. https://leetcode.com/problems/trapping-rain-water/                       @TODO
+  
+  
+# 13期-刷题狂魔组 算法题
+    Week01
+    【day1】  爬楼梯 https://github.com/a4471174/algorithm013/blob/master/Week_01/ClimbStairs.java
+    【day2】  加一   https://github.com/a4471174/algorithm013/blob/master/Week_01/PlusOne.java
+    【day3】  两数之和 https://github.com/a4471174/algorithm013/blob/master/Week_01/TwoSum.java
+    【day4】  两两交换链表中的节点 https://github.com/a4471174/algorithm013/blob/master/Week_01/SwapPairs.java
+    【day5】  合并两个有序链表 https://github.com/a4471174/algorithm013/blob/master/Week_01/MergeTwoLists.java
+    【day6】  猜数字游戏 https://github.com/a4471174/algorithm013/blob/master/Week_01/GetHint.java   
+    【day7】  设计循环双端队列 https://github.com/a4471174/algorithm013/blob/master/Week_01/MyCircularDeque.java
+
+
