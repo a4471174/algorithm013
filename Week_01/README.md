@@ -249,11 +249,11 @@
     • 跳表：升维思想 + 空间换时间
         
 ##   2. 实战题目解析：移动零
-
+    todo... 
 ##   3. 实战题目解析：盛水最多的容器、爬楼梯
-
+    todo... 
 ##   4. 实战题目解析：3数之和、环形链表
-
+    todo... 
 
 
 # 第1周 第4课 | 栈、队列、优先队列、双端队列
@@ -296,30 +296,33 @@
 
             
 ##   2. 实战题目解析：有效的括号、最小栈等问题
+    todo... 
 
-##   实战题目 - Array
+
+# 作业
+    实战题目 - Array
     1. https://leetcode-cn.com/problems/container-with-most-water/              @TODO
     2. https://leetcode-cn.com/problems/move-zeroes/                            @TODO
     3. https://leetcode-cn.com/problems/climbing-stairs/                        @UNDERWAY  1 time
     4. https://leetcode-cn.com/problems/3sum/ (高频老题）                        @TODO
-##   实战练习题目 - Linked List
+    实战练习题目 - Linked List
     1. https://leetcode-cn.com/problems/reverse-linked-list/                    @TODO
     2. https://leetcode-cn.com/problems/swap-nodes-in-pairs                     @UNDERWAY  1 time
     3. https://leetcode-cn.com/problems/linked-list-cycle                       @TODO
     4. https://leetcode-cn.com/problems/linked-list-cycle-ii                    @TODO
     5. https://leetcode-cn.com/problems/reverse-nodes-in-k-group/               @TODO    
-##   homework
+    homework
     1. https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/    @TODO
     2. https://leetcode-cn.com/problems/rotate-array/                           @TODO
     3. https://leetcode-cn.com/problems/merge-two-sorted-lists/                 @UNDERWAY  1 time
     4. https://leetcode-cn.com/problems/merge-sorted-array/                     @TODO
-    5. https://leetcode-cn.com/problems/two-sum/                                @UNDERWAY  1 time
+    5. https://leetcode-cn.com/problems/two-sum/                                @UNDERWAY  2 time
     6. https://leetcode-cn.com/problems/move-zeroes/                            @TODO
     7. https://leetcode-cn.com/problems/plus-one/                               @UNDERWAY  1 time   
-##   实战题目
+    实战题目
     1. https://leetcode-cn.com/problems/largest-rectangle-in-histogram          @TODO
     2. https://leetcode-cn.com/problems/sliding-window-maximum                  @TODO
-##   homework    
+    homework    
     1. https://leetcode.com/problems/design-circular-deque                      @UNDERWAY  1 time
     2. https://leetcode.com/problems/trapping-rain-water/                       @TODO
   
