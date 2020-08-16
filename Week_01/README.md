@@ -137,7 +137,7 @@
 
 ##   1. 数组、链表、跳表的基本实现和特性
     Array
-        数组（英语：Array），是由相同类型的元素（element）的集合所组成的数据结构，分配一块连续的内存来存储。
+        • 数组（英语：Array），是由相同类型的元素（element）的集合所组成的数据结构，分配一块连续的内存来存储。
         复杂度：
             时间复杂度：
                 add： O(n)
@@ -167,8 +167,8 @@
                 数组及简介时间复杂度 https://blog.csdn.net/qq_28849965/article/details/84837985
             
     Linked List    
-        链表由一系列结点（链表中每一个元素称为结点）组成，结点可以在运行时动态生成。
-        链表是一种物理存储单元上非连续、非顺序的存储结构，元素的逻辑顺序是通过链表中的指针链接次序实现的。
+        • 链表由一系列结点（链表中每一个元素称为结点）组成，结点可以在运行时动态生成。
+        • 链表是一种物理存储单元上非连续、非顺序的存储结构，元素的逻辑顺序是通过链表中的指针链接次序实现的。
         种类：
             单链表、双链表、循环链表
         复杂度：
@@ -179,7 +179,7 @@
                 insert  O(1)
                 delete  O(1)
         程序实现: 
-            Java
+            Java伪代码
             public class LinkedList<Item> {
                 private Node first;
                 private class Node {
@@ -201,14 +201,14 @@
                 深入理解数据结构之链表 https://www.cnblogs.com/absfree/p/5463372.html  
                  
     Skip List
-         在计算机科学中，跳跃列表是一种数据结构。它使得包含n个元素的有序序列的查找和插入操作的平均时间复杂度都是O(log n)，优于数组的O(n)复杂度。
+         • 在计算机科学中，跳跃列表是一种数据结构。它使得包含n个元素的有序序列的查找和插入操作的平均时间复杂度都是O(log n)，优于数组的O(n)复杂度。
          复杂度：
             时间复杂度：
                 O(log n)
             空间复杂度：
                 O(n)
          程序实现:  
-             Java
+             Java伪代码
              public class SkipList {
                  private static final int MAX_LEVEL = 16;
                  private int levelCount = 1;
@@ -224,7 +224,7 @@
                      private int maxLevel;
                  }
              }
-         工程中的应用：
+         工程应用：
             LRU Cache - Linked list
                 https://www.jianshu.com/p/b1ab4a170c3c
                 https://leetcode-cn.com/problems/lru-cache
@@ -260,7 +260,7 @@
 
 ##   1. 栈和队列的实现与特性
     Stack    
-        堆栈（英语：stack）又称为栈或堆叠，是计算机科学中的一种抽象数据类型，只允许在有序的线性数据集合的一端（称为堆栈顶端，英语：top）进行加入数据（英语：push）和移除数据（英语：pop）的运算。因而按照后进先出（LIFO, Last In First Out）的原理运作。       
+        • 堆栈（英语：stack）又称为栈或堆叠，是计算机科学中的一种抽象数据类型，只允许在有序的线性数据集合的一端（称为堆栈顶端，英语：top）进行加入数据（英语：push）和移除数据（英语：pop）的运算。因而按照后进先出（LIFO, Last In First Out）的原理运作。       
         复杂度：
             时间复杂度：
                 添加、删除皆为 O(1)        
@@ -275,7 +275,7 @@
                 栈 https://www.jianshu.com/p/ef4d9a897702
                     
     Queue
-        队列，又称为伫列（queue），计算机科学中的一种抽象资料型别，是先进先出（FIFO, First-In-First-Out）的线性表。在具体应用中通常用链表或者数组来实现。队列只允许在后端（称为rear）进行插入操作，在前端（称为front）进行删除操作。
+        • 队列，又称为伫列（queue），计算机科学中的一种抽象资料型别，是先进先出（FIFO, First-In-First-Out）的线性表。在具体应用中通常用链表或者数组来实现。队列只允许在后端（称为rear）进行插入操作，在前端（称为front）进行删除操作。
         种类：
             有界队列/无界队列、阻塞队列/非阻塞队列、链式队列/循环队列/单向队列/双端队列、优先队列
         复杂度：
