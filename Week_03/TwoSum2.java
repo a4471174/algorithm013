@@ -17,7 +17,7 @@ public class TwoSum2 {
      *         参考LeeCode
      * 复杂度分析
      *     时间复杂度：O(n^2)
-     *     空间复杂度：O(1)。
+     *     空间复杂度：O(1)
      */
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
@@ -36,8 +36,7 @@ public class TwoSum2 {
      *         参考LeeCode
      * 复杂度分析
      *     时间复杂度：O(n)
-     *     空间复杂度：O(n)。
-     *
+     *     空间复杂度：O(n)
      */
     public int[] twoSum2(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -59,8 +58,7 @@ public class TwoSum2 {
      *         参考LeeCode
      * 复杂度分析
      *     时间复杂度：O(n)
-     *     空间复杂度：O(n)。
-     *
+     *     空间复杂度：O(n)
      */
     public int[] twoSum4(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();

@@ -1,6 +1,7 @@
 # 学习心得
 
     13期-刷题狂魔组 第三周(周一~周五)算法题 完成了1遍, 但是本周课程课后练习还没开始.
+    补充了 第1周的 学习心得与笔记: https://github.com/a4471174/algorithm013/blob/master/Week_01/README.md
     补充了 第2周的 学习心得与笔记: https://github.com/a4471174/algorithm013/blob/master/Week_02/README.md
     希望后面自己可以跟上节奏.
 
