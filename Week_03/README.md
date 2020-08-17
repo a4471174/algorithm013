@@ -29,7 +29,16 @@
 # 13期-刷题狂魔组 算法题
     Week03
     【day15】二叉树的中序遍历		https://leetcode-cn.com/problems/binary-tree-inorder-traversal/					@UNDERWAY  2 time
+                                https://github.com/a4471174/algorithm013/blob/master/Week_03/InorderTraversal.java
+    
     【day16】替换空格				https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/							@UNDERWAY  2 time
+                                https://github.com/a4471174/algorithm013/blob/master/Week_03/ReplaceSpace.java
+    
     【day17】从尾到头打印链表		https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/		@UNDERWAY  2 time
+                                https://github.com/a4471174/algorithm013/blob/master/Week_03/ReversePrint.java
+                                
     【day18】二叉树的最近公共祖先	https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/	@UNDERWAY  2 time
+                                https://github.com/a4471174/algorithm013/blob/master/Week_03/LowestCommonAncestor.java
+                                
     【day19】两数之和				https://leetcode-cn.com/problems/two-sum/										@UNDERWAY  2 time 
+                                https://github.com/a4471174/algorithm013/blob/master/Week_03/TwoSum2.java
