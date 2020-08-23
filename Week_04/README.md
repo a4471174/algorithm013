@@ -28,7 +28,16 @@
 # 13期-刷题狂魔组 算法题
     Week04
     【day22】 全排列				    https://leetcode-cn.com/problems/permutations/								    @UNDERWAY  2 time
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/Permutations.java
+                                    
     【day23】 爬楼梯				    https://leetcode-cn.com/problems/climbing-stairs/								@UNDERWAY  3 time
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/ClimbStairs2.java
+                                    
     【day24】 买卖股票的最佳时机 II	https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/			@UNDERWAY  2 time
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/MaxProfit.java
+                                    
     【day25】 柠檬水找零			    https://leetcode-cn.com/problems/lemonade-change/description/					@UNDERWAY  2 time
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/LemonadeChange.java
+                                    
     【day26】 岛屿数量		        https://leetcode-cn.com/problems/number-of-islands/								@UNDERWAY  2 time
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/NumIslands.java
