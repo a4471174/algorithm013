@@ -1,3 +1,5 @@
+package shuati;
+
 /**
   双端队列
     作者: liweiwei1419
@@ -117,8 +119,8 @@ public class MyCircularDeque {
 
 
 /**
- * Your MyCircularDeque object will be instantiated and called as such:
- * MyCircularDeque obj = new MyCircularDeque(k);
+ * Your shuati.MyCircularDeque object will be instantiated and called as such:
+ * shuati.MyCircularDeque obj = new shuati.MyCircularDeque(k);
  * boolean param_1 = obj.insertFront(value);
  * boolean param_2 = obj.insertLast(value);
  * boolean param_3 = obj.deleteFront();

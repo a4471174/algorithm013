@@ -1,3 +1,5 @@
+package shuati;
+
 /**
  方法: YHHZW同学的解法
  复杂度分析:

@@ -1,3 +1,5 @@
+package shuati;
+
 import java.util.*;
 
 /**

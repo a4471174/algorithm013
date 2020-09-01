@@ -329,12 +329,12 @@
   
 # 13期-刷题狂魔组 算法题
     Week01
-    【day1】  爬楼梯 https://github.com/a4471174/algorithm013/blob/master/Week_01/ClimbStairs.java
-    【day2】  加一   https://github.com/a4471174/algorithm013/blob/master/Week_01/PlusOne.java
-    【day3】  两数之和 https://github.com/a4471174/algorithm013/blob/master/Week_01/TwoSum.java
-    【day4】  两两交换链表中的节点 https://github.com/a4471174/algorithm013/blob/master/Week_01/SwapPairs.java
-    【day5】  合并两个有序链表 https://github.com/a4471174/algorithm013/blob/master/Week_01/MergeTwoLists.java
-    【day6】  猜数字游戏 https://github.com/a4471174/algorithm013/blob/master/Week_01/GetHint.java   
-    【day7】  设计循环双端队列 https://github.com/a4471174/algorithm013/blob/master/Week_01/MyCircularDeque.java
+    【day1】  爬楼梯 https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.ClimbStairs.java
+    【day2】  加一   https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.PlusOne.java
+    【day3】  两数之和 https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.TwoSum.java
+    【day4】  两两交换链表中的节点 https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.SwapPairs.java
+    【day5】  合并两个有序链表 https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.MergeTwoLists.java
+    【day6】  猜数字游戏 https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.GetHint.java   
+    【day7】  设计循环双端队列 https://github.com/a4471174/algorithm013/blob/master/Week_01/shuati.MyCircularDeque.java
 
 

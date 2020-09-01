@@ -19,8 +19,37 @@
                 https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2
             百度百科:
                 https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2
-
-                     
+        DFS 代码 - 递归写法
+            visited = set()
+            
+            def dfs(node, visited):
+                if node in visited: # terminator
+                    # already visited
+                    return
+     
+            visited.add(node)
+            
+            # process current node here.
+            ...
+            for next_node in node.children():
+                if not next_node in visited:
+                    dfs(next_node, visited)            
+         
+        DFS 代码 - 非递归写法
+            def DFS(self, tree):
+                if tree.root is None:
+                    return []
+            
+            visited, stack = [], [tree.root]
+            
+            while stack:
+                node = stack.pop()
+                visited.add(node)
+                process (node)
+                nodes = generate_related_nodes(node)
+                stack.push(nodes)
+            # other processing work     
+                            
     广度优先搜索
         • 广度优先搜索算法（英语：Breadth-First Search，缩写为BFS），又译作宽度优先搜索，或横向优先搜索，是一种图形搜索算法。
         • BFS是从根节点开始，沿着树的宽度遍历树的节点。如果所有节点均被访问，则算法中止。
@@ -29,8 +58,20 @@
                 https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2
             百度百科:
                 https://baike.baidu.com/item/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/5224802?fromtitle=%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2&fromid=2148012
-
-
+        BFS 代码
+            def BFS(graph, start, end):
+                queue = []
+                queue.append([start])
+                visited.add(start)
+            
+            while queue:
+                node = queue.pop()
+                visited.add(node)
+                
+                process(node)
+                nodes = generate_related_nodes(node)
+                queue.push(nodes)    
+            
 ##   2. 实战题目解析：二叉树的层次遍历等问题
     
     
@@ -66,16 +107,16 @@
 # 13期-刷题狂魔组 算法题
     Week04
     【day22】 全排列				    https://leetcode-cn.com/problems/permutations/								    @UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/Permutations.java
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/shuati.Permutations.java
                                     
     【day23】 爬楼梯				    https://leetcode-cn.com/problems/climbing-stairs/								@UNDERWAY  3 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/ClimbStairs2.java
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/shuati.ClimbStairs2.java
                                     
     【day24】 买卖股票的最佳时机 II	https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/			@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/MaxProfit.java
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/shuati.MaxProfit.java
                                     
     【day25】 柠檬水找零			    https://leetcode-cn.com/problems/lemonade-change/description/					@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/LemonadeChange.java
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/shuati.LemonadeChange.java
                                     
     【day26】 岛屿数量		        https://leetcode-cn.com/problems/number-of-islands/								@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/NumIslands.java
+                                    https://github.com/a4471174/algorithm013/blob/master/Week_04/shuati.NumIslands.java

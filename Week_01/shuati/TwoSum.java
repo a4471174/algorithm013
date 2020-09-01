@@ -1,3 +1,5 @@
+package shuati;
+
 /**
  方法: 暴力破解
  思路: 两层for循环

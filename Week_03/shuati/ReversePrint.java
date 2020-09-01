@@ -1,3 +1,7 @@
+package shuati;
+
+import shuati.ListNode;
+
 import java.util.ArrayList;
 import java.util.Stack;
 
@@ -62,9 +66,9 @@ public class ReversePrint {
 
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class shuati.ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
+ *     shuati.ListNode next;
+ *     shuati.ListNode(int x) { val = x; }
  * }
  * */

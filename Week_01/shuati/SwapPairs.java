@@ -1,11 +1,13 @@
-/**
+package shuati; /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class shuati.ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
+ *     shuati.ListNode next;
+ *     shuati.ListNode(int x) { val = x; }
  * }
  */
+
+import shuati.ListNode;
 
 /**
  递归解法

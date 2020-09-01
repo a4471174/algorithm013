@@ -1,3 +1,4 @@
+package shuati;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -99,7 +100,7 @@ public class LemonadeChange {
         //[5,5,5,10,5,20,5,10,5,20]
         int[] bills = {5,5,5,10,5,20,5,10,5,20};
         //[5,5,5,10,20]
-        LemonadeChange lc = new LemonadeChange();
+        shuati.LemonadeChange lc = new shuati.LemonadeChange();
         boolean res = lc.lemonadeChange(bills);
         System.out.println(res);
     }*/

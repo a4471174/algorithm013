@@ -1,3 +1,5 @@
+package shuati;
+
 class GetHint {
     public String getHint(String secret, String guess) {
         StringBuilder sb = new StringBuilder();

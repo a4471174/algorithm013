@@ -178,9 +178,9 @@
                 
 # 13期-刷题狂魔组 算法题
     Week02
-    【day08】  两个数组的交集     https://github.com/a4471174/algorithm013/blob/master/Week_02/IntersectionOfTwoArrays.java
-    【day09】  删除最外层的括号   https://github.com/a4471174/algorithm013/blob/master/Week_02/RemoveOuterParentheses.java
-    【day10】  滑动窗口的最大值   https://github.com/a4471174/algorithm013/blob/master/Week_02/SlidingWindowMaximum.java
-    【day11】  Fizz Buzz        https://github.com/a4471174/algorithm013/blob/master/Week_02/FizzBuzz.java
-    【day12】  各位相加          https://github.com/a4471174/algorithm013/blob/master/Week_02/AddDigits.java
+    【day08】  两个数组的交集     https://github.com/a4471174/algorithm013/blob/master/Week_02/shuati.IntersectionOfTwoArrays.java
+    【day09】  删除最外层的括号   https://github.com/a4471174/algorithm013/blob/master/Week_02/shuati.RemoveOuterParentheses.java
+    【day10】  滑动窗口的最大值   https://github.com/a4471174/algorithm013/blob/master/Week_02/shuati.SlidingWindowMaximum.java
+    【day11】  Fizz Buzz        https://github.com/a4471174/algorithm013/blob/master/Week_02/shuati.FizzBuzz.java
+    【day12】  各位相加          https://github.com/a4471174/algorithm013/blob/master/Week_02/shuati.AddDigits.java
     

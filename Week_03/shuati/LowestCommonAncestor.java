@@ -1,3 +1,4 @@
+package shuati;
 
 /**
  *
@@ -30,10 +31,10 @@ public class LowestCommonAncestor {
 }
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class shuati.TreeNode {
  *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     shuati.TreeNode left;
+ *     shuati.TreeNode right;
+ *     shuati.TreeNode(int x) { val = x; }
  * }
  */
