@@ -13,6 +13,9 @@ import java.util.Map;
  *
  *      若这两个字符串没有公共子序列，则返回 0。
  *
+ * 理解程度(不理解\理解\掌握\熟练\精通):
+ *      < 理解 < 不理解
+ *      照抄1遍
  */
 public class LongestCommonSubsequence {
 
@@ -20,8 +23,8 @@ public class LongestCommonSubsequence {
      *
      * 方法: 暴力求解 思路 参考LeeCode
      * 复杂度分析
-     *     时间复杂度：O(m * n)O(m∗n)，其中 m 和 n 分别为 A 和 B 的 长度。
-     *     空间复杂度：O(m * n)O(m∗n)，其中 m 和 n 分别为 A 和 B 的 长度。
+     *     时间复杂度：O(m*n)，其中 m 和 n 分别为 A 和 B 的 长度。
+     *     空间复杂度：O(m*n)，其中 m 和 n 分别为 A 和 B 的 长度。
      */
     public int longestCommonSubsequence(String text1, String text2) {
         int m = text1.length(), n = text2.length();

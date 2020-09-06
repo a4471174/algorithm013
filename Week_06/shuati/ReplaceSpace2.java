@@ -4,6 +4,9 @@ package shuati;
  * 剑指 Offer 05. 替换空格
  * 题目描述:
  *      请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
+ *
+ * 理解程度(不理解\理解\掌握\熟练\精通):
+ *      理解
  */
 public class ReplaceSpace2 {
 
