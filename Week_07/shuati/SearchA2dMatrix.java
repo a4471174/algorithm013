@@ -2,18 +2,19 @@ package shuati;
 
 
 /**
- * 347. 前 K 个高频元素
+ * 74. 搜索二维矩阵
  * 题目描述:
- *      给定一个非空的整数数组，返回其中出现频率前 k 高的元素。
+ *      编写一个高效的算法来判断 m x n 矩阵中，是否存在一个目标值。该矩阵具有如下特性：
+ *      每行中的整数从左到右按升序排列。
+ *      每行的第一个整数大于前一行的最后一个整数。
  *
  * 题解:
- *      官方: https://leetcode-cn.com/problems/top-k-frequent-elements/solution/qian-k-ge-gao-pin-yuan-su-by-leetcode-solution/
- *          方法一：堆
- *          方法二：基于快速排序
+ *      官方: https://leetcode-cn.com/problems/search-a-2d-matrix/solution/sou-suo-er-wei-ju-zhen-by-leetcode/
+ *          方法：二分查找
  *
  *
  * 理解程度(不理解\理解\掌握\熟练\精通):
- *      方法一：堆 理解, 抄了1遍
+ *      方法：二分查找: >不理解>理解, 抄了1遍
  *
  */
 public class SearchA2dMatrix {

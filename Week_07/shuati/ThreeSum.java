@@ -5,14 +5,10 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * LeetCode 每日一题
- * 216. 组合总和 III
+ * 15. 三数之和
  * 题目描述:
- *      找出所有相加之和为 n 的 k 个数的组合。组合中只允许含有 1 - 9 的正整数，并且每种组合中不存在重复的数字。
- *      说明：
- *           所有数字都是正整数。
- *           解集不能包含重复的组合。 
- *
+ *      给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。
+ *      注意：答案中不可以包含重复的三元组。
  *
  * 题解:
  *      官方: https://leetcode-cn.com/problems/3sum/solution/san-shu-zhi-he-by-leetcode-solution/
