@@ -158,11 +158,12 @@ public class WordSearchII {
             parent.children.remove(letter);
         }
     }
+
+    class TrieNode {
+        HashMap<Character, TrieNode> children = new HashMap<Character, TrieNode>();
+        String word = null;
+        public TrieNode() {}
+    }
 }
 
 
-class TrieNode {
-    HashMap<Character, TrieNode> children = new HashMap<Character, TrieNode>();
-    String word = null;
-    public TrieNode() {}
-}
