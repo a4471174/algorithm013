@@ -47,17 +47,17 @@
 | 天数  | 题目               | 链接                                                         | 次数 |
 | ----- | ------------------ | ------------------------------------------------------------ | ---- |
 | day50 | 朋友圈       | https://leetcode-cn.com/problems/friend-circles/         | 1    |
-|       |                    | https:// |      |
+|       |                    | https://github.com/a4471174/algorithm013/blob/master/Week_08/shuati/FriendCircles.java |      |
 | day51 | 有效的完全平方数 | https://leetcode-cn.com/problems/valid-perfect-square/ | 1    |
-|       |                    | https:// |      |
+|       |                    | https://github.com/a4471174/algorithm013/blob/master/Week_08/shuati/ValidPerfectSquare.java |      |
 | day52 | 打家劫舍           | https://leetcode-cn.com/problems/house-robber/          | 1    |
-|       |                    | https:// |      |
+|       |                    | https://github.com/a4471174/algorithm013/blob/master/Week_08/shuati/HouseRobber.java |      |
 | day53 | 颠倒二进制位         | https://leetcode-cn.com/problems/reverse-bits/           | 1    |
-|       |                    | https:// |      |
+|       |                    | https://github.com/a4471174/algorithm013/blob/master/Week_08/shuati/ReverseBits.java |      |
 | day54 | 两两交换链表中的节点           | https://leetcode-cn.com/problems/swap-nodes-in-pairs/                | 2    |
-|       |                    | https:// |      |
+|       |                    | https://github.com/a4471174/algorithm013/blob/master/Week_08/shuati/SwapNodesInPairs.java |      |
 | day56 | 最长重复子数组           | https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/                       | 1    |
-|       |                    | https:// |      |
+|       |                    | https://github.com/a4471174/algorithm013/blob/master/Week_08/shuati/MaximumLengthOfRepeatedSubarray.java |      |
 |       |                    |                                                              |      |
 |       |                    |                                                              |      |
 |       |                    |                                                              |      |
