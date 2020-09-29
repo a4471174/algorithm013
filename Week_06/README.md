@@ -34,10 +34,8 @@
         • 若要解一个给定问题，需要解其不同部分（即子问题），再根据子问题的解以得出原问题的解。
         • 通常许多子问题非常相似，为此动态规划法试图仅仅解决每个子问题一次，从而减少计算量：一旦某个给定子问题的解已经算出，则将其记忆化存储，以便下次需要同一个子问题解之时直接查表。
         参考：
-            维基百科:
-                https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92
-            百度百科:
-                https://baike.baidu.com/item/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92
+            维基百科: https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92
+            百度百科: https://baike.baidu.com/item/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92
 
 ##   2. DP例题解析：Fibonacci数列、路径计数
     @todo
@@ -51,46 +49,42 @@
     @todo
 
 # 13期-刷题狂魔组 算法题
-    Week05
-    【day29】 单词接龙				https://leetcode-cn.com/problems/word-ladder/description/						@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/LadderLength.java
-                                    
-    【day30】 两数之和				https://leetcode-cn.com/problems/two-sum/description/							@UNDERWAY  4 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/TwoSum3.java
-                                    
-    【day31】 模拟行走机器人		    https://leetcode-cn.com/problems/walking-robot-simulation/description/			@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/RobotSim.java
-                                    
-    【day32】 最大子序和			    https://leetcode-cn.com/problems/maximum-subarray/								@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/MaxSubArray.java
-                                    
-    【day33】 最长公共子序列		    https://leetcode-cn.com/problems/longest-common-subsequence/					@UNDERWAY  2 time
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/LongestCommonSubsequence.java
-                                    
-    【day34】 替换空格				https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/							@UNDERWAY  3 time                                
-                                    https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/ReplaceSpace2.java
-    
-    
-    Week06
-    【day36】 最小路径和     				 	https://leetcode-cn.com/problems/minimum-path-sum/								@UNDERWAY  2 time
-                                            https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/MinPathSum.java
-                                            
-    【day37】 零钱兑换 		 				https://leetcode-cn.com/problems/coin-change/									@UNDERWAY  2 time
-                                            https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/CoinChange.java
-                                            
-    【day38】 打家劫舍 II 	 				https://leetcode-cn.com/problems/house-robber-ii/description/					@UNDERWAY  2 time
-                                            https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/Rob.java
-                                            
-    【day39】 N叉树的前序遍历 				 	https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/		@UNDERWAY  2 time
-    
-    【day40】 矩形区域不超过K的最大数值和    	https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/			@UNDERWAY  1 time
-                                            https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/MaxSumSubmatrix.java
-                                            
-    【day41】 搜索旋转排序数组					https://leetcode-cn.com/problems/search-in-rotated-sorted-array/				@UNDERWAY  1 time
-                                            https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/SearchInRotatedSortedArray.java
-                                            
-    【day42】 单词搜索 II						https://leetcode-cn.com/problems/word-search-ii/								@UNDERWAY  1 time
-                                            https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/WordSearchII.java
+
+| 天数  | 题目                     | 链接                                                                                                       | 次数 |
+| ----- | ----------------------- | ---------------------------------------------------------------------------------------------------------- | ---- |
+| day29 | 单词接龙                 | https://leetcode-cn.com/problems/word-ladder/description/                                                  | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/LadderLength.java                      |      |
+| day30 | 两数之和                 | https://leetcode-cn.com/problems/two-sum/description/                                                      | 4    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/TwoSum3.java                           |      |
+| day31 | 模拟行走机器人            | https://leetcode-cn.com/problems/walking-robot-simulation/description/                                     | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/RobotSim.java                          |      |
+| day32 | 最大子序和               | https://leetcode-cn.com/problems/maximum-subarray/                                                          | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/MaxSubArray.java                       |      |
+| day33 | 最长公共子序列            | https://leetcode-cn.com/problems/longest-common-subsequence/                                               | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/LongestCommonSubsequence.java          |      |
+| day34 | 替换空格                 | https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/                                                     | 3    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/ReplaceSpace2.java                     |      |
+|       |                         |                                                                                                            |      |
+                        
+
+| 天数  | 题目                     | 链接                                                                                                       | 次数 |
+| ----- | ----------------------- | ---------------------------------------------------------------------------------------------------------- | ---- |
+| day36 | 最小路径和               | https://leetcode-cn.com/problems/minimum-path-sum/                                                         | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/MinPathSum.java                        |      |
+| day37 | 零钱兑换                 | https://leetcode-cn.com/problems/coin-change/                                                              | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/CoinChange.java                        |      |
+| day38 | 打家劫舍 II              | https://leetcode-cn.com/problems/house-robber-ii/description/                                              | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/Rob.java                               |      |
+| day39 | N叉树的前序遍历           | https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/                                | 2    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/NAryTreePreorderTraversal.java         |      |
+| day40 | 矩形区域不超过K的最大数值和| https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/                                    |  1   |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/MaxSumSubmatrix.java                   |      |
+| day41 | 搜索旋转排序数组          | https://leetcode-cn.com/problems/search-in-rotated-sorted-array/                                           | 1    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/SearchInRotatedSortedArray.java        |      |
+| day42 | 单词搜索 II              | https://leetcode-cn.com/problems/word-search-ii/                                                           | 1    |
+|       |                         | https://github.com/a4471174/algorithm013/blob/master/Week_06/shuati/WordSearchII.java                      |      |
+|       |                         |         |      |                                    
+
                                             
                                             
                                             
