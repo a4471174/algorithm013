@@ -1,4 +1,4 @@
-# 学习笔记
+# 学习心得
            
     对于本周的（字典树和并查集\高级搜索\红黑树和AVL树）的内容掌握的不是很好,审题、解题 、编码等都有问题， 需要多巩固练习。
     
@@ -14,7 +14,7 @@
 
 
 ​    
-
+# 学习笔记
 
 # 第7周 第13课 | 字典树和并查集
 
@@ -53,24 +53,49 @@
                     Alpha-beta剪枝
                     决策树剪枝
             百度百科: https://baike.baidu.com/item/%E5%89%AA%E6%9E%9D/23746718
-    @todo
+            
 ##   2. 剪枝实战题目解析：数独
     @todo
     
 ##   3. 双向BFS的实现、特性和题解
-    @todo
+    双向BFS
+        @Warn 没看懂, 以后慢慢看.
+        参考：
+            https://blog.csdn.net/weixin_43501684/article/details/90147421
+            https://leetcode-cn.com/problems/word-ladder/solution/dan-ci-jie-long-by-leetcode/
+            https://leetcode-cn.com/problems/word-ladder/solution/yan-du-you-xian-bian-li-shuang-xiang-yan-du-you-2/    
+            
 ##   4. 启发式搜索的实现、特性和题解
-    @todo
-
-
+    启发式搜索
+        • 启发式算法试图一次提供一个或全部目标。
+        • 它通常可在合理时间解出答案，但也没办法知道它是否每次都可以这样的速度求解。
+        • 启发式算法处理许多实际问题时通常可以在合理时间内得到不错的答案。
+        参考：
+            维基百科: https://zh.wikipedia.org/wiki/%E5%90%AF%E5%8F%91%E5%BC%8F%E6%90%9C%E7%B4%A2
+            百度百科: https://baike.baidu.com/item/%E5%90%AF%E5%8F%91%E5%BC%8F%E6%90%9C%E7%B4%A2
+    @Warn 一知半解, 以后慢慢看.
+    
 # 第7周 第15课 | 红黑树和AVL树
 
 ##   1. AVL树和红黑树的实现和特性
-    @todo
-
-
-​    
-​    
+    AVL树
+        • 在计算机科学中，AVL树是最早被发明的自平衡二叉查找树
+        • 在AVL树中，任一节点对应的两棵子树的最大高度差为1，因此它也被称为高度平衡树。
+        • 查找、插入和删除在平均和最坏情况下的时间复杂度都是 O(logn)
+        • 增加和删除元素的操作则可能需要借由一次或多次树旋转，以实现树的重新平衡。
+        • 节点的平衡因子是它的左子树的高度减去它的右子树的高度（有时相反）。带有平衡因子1、0或 -1的节点被认为是平衡的。
+        参考：
+            维基百科: https://zh.wikipedia.org/wiki/AVL%E6%A0%91
+            百度百科: https://baike.baidu.com/item/AVL%E6%A0%91
+            
+    红黑树
+        • 红黑树（英语：Red–black tree）是一种自平衡二叉查找树，是在计算机科学中用到的一种数据结构，典型用途是实现关联数组
+        • 红黑树的结构复杂，但它的操作有着良好的最坏情况运行时间，并且在实践中高效：它可以在 {\displaystyle {\text{O}}(\log n)} {\displaystyle {\text{O}}(\log n)}时间内完成查找、插入和删除
+        参考：
+            维基百科: https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%BB%91%E6%A0%91
+            百度百科: https://baike.baidu.com/item/%E7%BA%A2%E9%BB%91%E6%A0%91
+            
+            
 # 13期-刷题狂魔组 算法题
 
 
